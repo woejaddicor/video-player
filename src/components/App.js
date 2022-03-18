@@ -13,7 +13,15 @@ const App = () => {
 	}, [videos]);
 
 	return (
-		<div className="ui container">
+		<div
+			className="ui container"
+			style={{
+				backgroundColor: '#B9C8DF',
+				padding: 5,
+				borderRadius: 8,
+				width: '90%',
+			}}
+		>
 			<SearchBar onFormSubmit={search} />
 			<div className="ui grid">
 				<div className="ui row">
