@@ -21,6 +21,12 @@ yarn start
 
 And you should be good to go!
 
+Alternatively, you can view the application on the following link:
+
+```sh
+https://woejaddicor-video-player.netlify.app/
+```
+
 ## Author
 
 👤 **Joe Waddicor**
