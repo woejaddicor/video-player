@@ -19,7 +19,7 @@ const App = () => {
 				backgroundColor: '#B9C8DF',
 				padding: 5,
 				borderRadius: 8,
-				width: '90%',
+				width: '80%',
 			}}
 		>
 			<SearchBar onFormSubmit={search} />
